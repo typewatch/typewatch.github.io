@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>typewatch – blog</title>
+    <title>typewatch – Blog</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in blog on typewatch</description>
+    <description>Recent content in Blog on typewatch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jan 2026 09:47:35 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,21 @@
         
       
     
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://localhost:1313/blog/helloworld/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/helloworld/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Hey! I&amp;rsquo;m typewatch, a guy on the internet that likes to learn about interesting stuff. I am a writer, linux nerd and an engineering hobbyist.&lt;/p&gt;
+&lt;p&gt;Welcome to my little corner of the internet! I made this website as a companion for my bigger projects; this&amp;rsquo;ll be where I store and organize writeups, details, resources, docs, guides, and whatnot. I might post a blog entry or two every now and then, but for now, I&amp;rsquo;ll be passing some stuff over from a couple of repos.&lt;/p&gt;
+&lt;p&gt;Stay tuned for more to come!&lt;/p&gt;
+      </description>
+    </item>
     
   </channel>
 </rss>

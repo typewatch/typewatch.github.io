@@ -11,11 +11,14 @@ menu:
     - name: blog
       pageRef: /blog
       weight: 2
+    - name: projects
+      pageRef: /projects
+      weight: 3
     - name: about
       pageRef: /about
-      weight: 3
-    - name: GitHub
       weight: 4
+    - name: GitHub
+      weight: 5
       url: "https://github.com/typewatch/typewatch.github.io/"
       params:
         icon: github
@@ -28,3 +31,8 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
