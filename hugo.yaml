@@ -1,0 +1,30 @@
+baseURL: https://typewatch.github.io/
+languageCode: en-us
+title: typewatch
+theme: hextra
+
+menu:
+  main:
+    - name: docs
+      pageRef: /docs
+      weight: 1
+    - name: blog
+      pageRef: /blog
+      weight: 2
+    - name: about
+      pageRef: /about
+      weight: 3
+    - name: GitHub
+      weight: 4
+      url: "https://github.com/typewatch/typewatch.github.io/"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
