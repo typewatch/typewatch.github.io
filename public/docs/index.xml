@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>typewatch – Index</title>
+    <title>typewatch – Docs Index</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Index on typewatch</description>
+    <description>Recent content in Docs Index on typewatch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -13,6 +13,25 @@
         
       
     
+    
+    <item>
+      <title>License</title>
+      <link>http://localhost:1313/docs/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/license/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Projects &amp;amp; Content&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;projects--content&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#projects--content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;All content featured in this website—including my projects, unless listed as otherwise within their according github repositories—is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY-NC-SA License.&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Site Code&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;site-code&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#site-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;All code for the site is licensed under the &lt;a href=&#34;https://mit-license.org/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT License.&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Contact&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contact&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#contact&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Visit the &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;about&lt;/a&gt; page for more information.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title></title>

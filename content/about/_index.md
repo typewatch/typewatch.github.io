@@ -2,14 +2,15 @@
 title: 'About'
 ---
 
-Welcome to the about page. In here, you can find my contact info, resume, and website history. 
+Hey, I'm typewatch. I'm a student with an innate desire for knowledge. I've dabbled in various engineering fields along the years, and I built this website to store everything I have done so far.
 
 ## Contact Info
-- **Github** - [typewatch][github]
+- **Github** - [typewatch][githubuser]
 - **Discord** - [typewatch][discord]
+- **Email** - typewatch(at)proton(dot)me
 
-[github]: https://github.com/typewatch
-[discord]: discord.com/users/1079221725956419605
+[githubuser]: https://github.com/typewatch
+[discord]: https://discord.com/users/1079221725956419605
 
 ## Resume
 - [**myresume.pdf**][resume]
@@ -17,7 +18,7 @@ Welcome to the about page. In here, you can find my contact info, resume, and we
 [resume]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ## Website
-This website was built with [Hugo][hugo], is based on a custom theme named [Hextra], and is hosted by [GitHub].
+This website was built with [Hugo][hugo], is based on a custom theme named [Hextra][hextra], and is hosted by [GitHub][github].
 
 To learn how to make your own website, check out these resources:
 - [Github Pages][githubpages]

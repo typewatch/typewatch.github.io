@@ -1,18 +1,17 @@
 ---
 linkTitle: Documentation
-title: Index
+title: Docs Index
 ---
 
-Welcome to the docs page. Here you will find in-depth information regarding all of my projects.
+Welcome to my docs archive; here you can find in-depth information regarding almost all of my projects.
 
-## Active Projects
-- totum
+## In Development
 - driver40
-- typewatch.github.io
 
-## Archived Projects
+## Archived
 - your mom
 
+
 ## Feedback
-Feedback is greatly appreciated. Please visit the [about]({{< ref "about/_index.md" >}})
+I heavily appreciate any feedback; please visit the [about]({{< ref "about/_index.md" >}})
  page for more information.
