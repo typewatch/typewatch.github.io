@@ -1,6 +1,6 @@
 ---
 linkTitle: Documentation
-title: Docs Index
+title: Index
 ---
 
 Welcome to my docs archive; here you can find in-depth information regarding almost all of my projects.
@@ -13,5 +13,5 @@ Welcome to my docs archive; here you can find in-depth information regarding alm
 
 
 ## Feedback
-I heavily appreciate any feedback; please visit the [about]({{< ref "about/_index.md" >}})
+I heavily appreciate feedback; please visit the [about]({{< ref "about/_index.md" >}})
  page for more information.

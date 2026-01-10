@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>typewatch – Docs Index</title>
+    <title>typewatch – Index</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs Index on typewatch</description>
+    <description>Recent content in Index on typewatch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -34,15 +34,31 @@
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/docs/driver40/ref/</link>
+      <title>Bill of Materials</title>
+      <link>http://localhost:1313/docs/driver40/bom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/driver40/ref/</guid>
+      <guid>http://localhost:1313/docs/driver40/bom/</guid>
       <description>
         
         
+        &lt;p&gt;bill of material for keyboard thing&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Build Guide</title>
+      <link>http://localhost:1313/docs/driver40/buildguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/driver40/buildguide/</guid>
+      <description>
         
+        
+        &lt;p&gt;driver40 keyboard&lt;/p&gt;
+&lt;p&gt;stuff&lt;/p&gt;
+
       </description>
     </item>
     
