@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>typewatch – Lenovo</title>
+    <link>http://localhost:1313/tags/lenovo/</link>
+    <description>Recent content in Lenovo on typewatch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/lenovo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Enshittification is real and is coming for all of us</title>
+      <link>http://localhost:1313/blog/enshittification-is-real-and-is-coming-for-all-of-us/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/enshittification-is-real-and-is-coming-for-all-of-us/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Hey! I&amp;rsquo;m typewatch, a guy on the internet that likes to learn about interesting stuff. Coincidentally, I also make interesting stuff.&lt;/p&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,11 @@ title: Index
 Welcome to my docs archive; here you can find in-depth information regarding almost all of my projects.
 
 ## In Development
-- driver40
+- [Driver40]({{< ref "driver40" >}})
+- [Totum]({{< ref "totum" >}})
 
 ## Archived
-- your mom
+- [HelloDrum-2]({{< ref "hellodrum-2" >}})
 
 
 ## Feedback

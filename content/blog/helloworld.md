@@ -6,7 +6,7 @@ authors:
     link: https://github.com/typewatch/
     image: https://github.com/typewatch.png
 tags:
-  - Hello World
+  - hello world
 ---
 
 Hey! I'm typewatch, a guy on the internet that likes to learn about interesting stuff. Coincidentally, I also make interesting stuff.

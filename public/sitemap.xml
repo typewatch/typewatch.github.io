@@ -19,11 +19,17 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/onebag/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/driver40/bom/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/zenith/bom/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/driver40/buildguide/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/zenith/buildguide/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

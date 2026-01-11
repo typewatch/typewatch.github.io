@@ -1,7 +1,7 @@
 ---
 title: Build Guide
 type: docs
-prev: docs/bom
+prev: docs/bom/
 ---
 
 driver40 keyboard

@@ -4,6 +4,8 @@ type: docs
 prev: docs/
 ---
 
-totum 3d printer
+![totumhome.jpg](/img/placeholder/placeholder5.webp)
+{{< badge content="GitHub" link="https://github.com/typewatch/totum" icon="github" >}}
+{{< badge content="YouTube" link="https://www.youtube.com/watch?v=dQw4w9WgXcQ" icon="youtube" >}}
 
-stuff
+totum (super secret project)

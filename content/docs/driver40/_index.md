@@ -2,9 +2,12 @@
 title: Driver40
 type: docs
 prev: docs/
-next: docs/driver40/bom
+next: docs/driver40/bom/
 ---
-![hellodrum.jpg](/img/placeholder/placeholder.jpg)
+
+![driver40home.jpg](/img/placeholder/placeholder1.webp)
+{{< badge content="GitHub" link="https://github.com/typewatch/driver40/" icon="github" >}}
+{{< badge content="YouTube" link="https://www.youtube.com/watch?v=dQw4w9WgXcQ" icon="youtube" >}}
 
 Driver40 is an ultraportable, 4x5 ortholinear, low profile split keyboard. Handful of words huh? Here's what they mean:
 
@@ -15,10 +18,19 @@ Driver40 is an ultraportable, 4x5 ortholinear, low profile split keyboard. Handf
 
 ## Why?
 
-I like split keyboards, and needed a portable keyboard to carry with me on a day-to-day basis. I have an MX lily58 at home, and I really like it, but sometimes when I'm away from my desk and I need to sit down and churn out some code, do homework, or just play a game, I miss the perfection that is 
+I built a *lily58* not very long ago, and I love it. It's a 58-key, 4x6 *column staggered* split keyboard.
 
-I looked around for a little while, and found nothing that caught my eye, so I decided to make my own. After all, I have previously done similar things, and I figured it'd be worth it since I would be able to fine-tune it to my liking.
+It's really comfortable to type on for long periods of time, and I found the way it uses layers to "hide" keys that are barely used but still necessary to keep at hand much more practical than having a big keyboard with keys for all kinds of functions. 
 
-I set forth a few things I wanted out of a keyboard, and got sketching. You can see the whole process in the more in-depth write-up found at driver40/devlog/, or at my website.
+As a student, I spend most of my time away from my desk: sometimes I'm on campus, other times I'm at a coffee shop, maybe I'm at a friend's, or at the library—and unfortunately, the homework doesn't stop flowing. Thanks to this I pretty much always carry my school backpack with me to work on the go—freeing time for other stuff, like my hobbies.
 
-Driver40 is what I ended up with. I also implemented a few other nifty features and turned them into their own variations of the primary build, which you can see above.
+With time, I've refined my 
+
+## The Process
+
+Building a fully custom keyboard is surprisingly easy nowadays; with just a little bit of tech-wiz and a weekend or two, you can make your very own keyboard.
+
+
+## The Result
+
+Not done yet lol.

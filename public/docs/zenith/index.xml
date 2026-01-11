@@ -14,5 +14,33 @@
       
     
     
+    <item>
+      <title>Bill of Materials</title>
+      <link>http://localhost:1313/docs/zenith/bom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/zenith/bom/</guid>
+      <description>
+        
+        
+        &lt;p&gt;bill of materials for zenith&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Build Guide</title>
+      <link>http://localhost:1313/docs/zenith/buildguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/zenith/buildguide/</guid>
+      <description>
+        
+        
+        &lt;p&gt;build guide for zenith&lt;/p&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
