@@ -8,7 +8,7 @@ Hey! I'm TypeWatch, a guy on the internet that likes to learn about all kinds of
 
 ## What's this?
 
-This is my ~~super villian lair~~ little corner of the internet where I post my work and other cool stuff.
+This is my ~~supervillian lair~~ little corner of the internet where I post my work and other cool stuff.
 
 More cool stuff to come soon™
 
