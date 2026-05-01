@@ -103,4 +103,4 @@ It's different for everyone, but I can almost guarantee you already have one or 
 
 Windows has been getting significantly worse over time as of late. If you're able to make the switch, you should go for it; maybe not towards a complex distro like Arch if you don't feel very comfortable with setting everything up from scratch or using the command-line, but towards a simpler, more streamlined one like Fedora or Ubuntu, which come with plenty of batteries out of the box and have a fancy graphical installer.
 
-Linux may not be the best, but the tradeoff is definitely worth it for the customizability, stability and pure freedom it provides. With alternative operating systems losing scope and falling for profiteering over user comfort, Linux is one of, if not the best options for an OS out there.
+Linux may not be the best, but the tradeoff is definitely worth it for the customizability, stability and pure freedom it provides. With alternative operating systems losing scope and falling for profiteering over user comfort, Linux is one of, if not the best option for an OS out there.
