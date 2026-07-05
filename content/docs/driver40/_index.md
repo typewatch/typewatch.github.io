@@ -5,9 +5,8 @@ prev: docs/
 next: docs/driver40/bom/
 ---
 
-![driver40home.jpg](/img/placeholder/placeholder1.webp)
+![driver40home.jpg](/img/placeholder/placeholder1.webp "Driver40 Rev1")
 {{< badge content="GitHub" link="https://github.com/typewatch/driver40/" icon="github" >}}
-{{< badge content="YouTube" link="https://www.youtube.com/watch?v=dQw4w9WgXcQ" icon="youtube" >}}
 
 Driver40 is an ultraportable, 4x5 ortholinear, low profile split keyboard. Handful of words huh? Here's what they mean:
 

@@ -27,13 +27,6 @@ These are some of the things I've worked on
   >}}
 
   {{< card
-        link="https://github.com/typewatch/HelloDrum-2"
-        title="HelloDrum-2"
-        image="/img/placeholder/placeholder.jpg"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-
-  {{< card
         link="https://github.com/typewatch/zenith"
         title="Zenith"
         image="/img/placeholder/placeholder3.webp"

@@ -10,8 +10,7 @@ Welcome to my docs archive; here you can find in-depth information regarding alm
 - [Totum]({{< ref "totum" >}})
 
 ## Archived
-- [HelloDrum-2]({{< ref "hellodrum-2" >}})
-
+- [Zenith]({{< ref "zenith" >}})
 
 ## Feedback
 I heavily appreciate feedback; please visit the [about]({{< ref "about/_index.md" >}})

@@ -41,7 +41,7 @@ It has been the dominant OS on the enterprise sector, running in most servers an
 
 Despite its dominance outside the consumer sector, for years Linux has been trying to increase its stake in the consumer OS market. Unfortunately, it hasn't been able to gain more than 5% of the consumer desktop OS market since its appearance. This is fantastic for such niche software, but 5% isn't enough to be competitive with bigger sharks like Windows' menacing 65% and macOS's 15%.
 
-Linux has not been around as long as others have, and isn't as widely recognized, but the public opinion on it has been growing stronger every year, and with recent improvements it finally looks like it might just be about time for it to claim more territory.
+Linux has not been around in the market as long as others have, and isn't as widely recognized, but the public opinion on it has been growing stronger every year, and with recent improvements it finally looks like it might just be about time for it to claim more territory.
 
 ## I don't like Windows
 I have technically been a Linux user for years, having my first taste when I put raspbian on a raspberry pi as a kid. Since then, I've tried several distros and have been running Linux on my homelab for a while.
@@ -77,7 +77,7 @@ And after that, comes the fun part. Well, fun-ish.
 
 Remember how I said you can control everything? You can even change the look of your OS; from fonts and custom colors all the way to system-wide themes. Of course, like all things Linux, it takes a while and you might break something in the process, but in the end you can achieve very nice results.
 
-Finally, you have a complete Linux system. Some parts you can skip, others (usually the worse ones) you can't. All in all it takes around a day or two before you reach the end, but once you do, it feels very nice to have an OS customized to your specific wants and needs, by you. It's one of those things that brings out a little smile when it works just as you wanted it to.
+Finally, you have a complete Linux system. Some parts you can skip, others (usually the worse ones) you can't. All in all it takes anywhere from an hour to a day or two before you reach the end, but once you do, it feels very nice to have an OS customized to your specific wants and needs, by you. It's one of those things that brings out a little smile when it works just as you wanted it to.
 
 As for usage, it's not much different. Yes, you can't run .exe files the same way you can't use .dmg files on Windows, you can't use certain software as it was not designed for Linux, and a couple other things that vary between distros, but you can still do normal computer tasks the same way (or better) with alternative software.
 
