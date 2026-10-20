@@ -1,6 +1,6 @@
 ---
 title: Bill of Materials
-type: docs
+description: "Bill of materials for the Zenith 3D printer exhaust filter."
 prev: docs/zenith/
 next: docs/zenith/buildguide/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Knobhead16
-type: docs
+description: "A macropad for people who like knobs."
 prev: docs/
 next: docs/knobhead16/bom/
 ---
@@ -24,9 +24,6 @@ This project's development can be divided into 5 stages:
 - **Prototyping:** Assembling the macropad, fiddling with firmware and testing it.
 - **Publishing:** Project files packaging and archive upload to github.
 
-A [more in-depth devlog is available](https://www.typewatch.dev/knobhead16) should you want to follow along and make your own tweaks, or learn how to use the featured tools.
-
 ## Damn you, tariffs
 I got from zero-to-prototype in about two weeks. If you add the waiting time for parts and supplies (I ran out of filament mid-progress D:), getting to a prototype took just shy of 2 months. Not bad, but not good either.
 
-##

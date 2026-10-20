@@ -1,6 +1,6 @@
 ---
 title: Driver40
-type: docs
+description: "An ultraportable 4x5 ortholinear low-profile split keyboard."
 prev: docs/
 next: docs/driver40/bom/
 ---

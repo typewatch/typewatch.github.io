@@ -1,5 +1,6 @@
 ---
 title: 'About'
+description: "About typewatch, contact information, and website credits."
 ---
 
 Hey again, I'm typewatch. I'm a student with an innate desire for knowledge. I've dabbled in various engineering fields along the years, and I built this website to store everything I have done so far.

@@ -1,10 +1,6 @@
 ---
 title: "Lily58: A review"
 date: 2026-05-02
-authors:
-  - name: typewatch
-    link: https://github.com/typewatch/
-    image: https://github.com/typewatch.png
 tags:
   - keyboard
   - split

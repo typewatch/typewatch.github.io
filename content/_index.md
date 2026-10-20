@@ -1,5 +1,6 @@
 ---
 title: "typewatch"
+description: "The projects, documentation, and blog of typewatch."
 ---
 
 ## Hello world!

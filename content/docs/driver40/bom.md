@@ -1,6 +1,6 @@
 ---
 title: Bill of Materials
-type: docs
+description: "Bill of materials for the Driver40 split keyboard build."
 prev: docs/
 next: docs/driver40/buildguide/
 ---

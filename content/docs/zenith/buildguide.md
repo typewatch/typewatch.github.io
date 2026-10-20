@@ -1,6 +1,6 @@
 ---
 title: Build Guide
-type: docs
+description: "Step-by-step build guide for the Zenith 3D printer exhaust filter."
 prev: docs/zenith/bom/
 ---
 

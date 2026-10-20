@@ -1,10 +1,6 @@
 ---
 title: "Hello World!"
 date: 2026-01-09
-authors:
-  - name: typewatch
-    link: https://github.com/typewatch/
-    image: https://github.com/typewatch.png
 tags:
   - hello world
 ---

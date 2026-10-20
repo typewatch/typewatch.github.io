@@ -1,6 +1,6 @@
 ---
 title: Zenith
-type: docs
+description: "A 3D printer exhaust filtering system."
 prev: docs/
 next: docs/zenith/bom/
 ---

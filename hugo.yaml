@@ -1,15 +1,18 @@
-baseURL: https://typewatch.github.io/
+baseURL: https://typewatch.dev/
 locale: en-us
 title: typewatch
 theme: hextra
 
 params:
+  description: "The projects, documentation, and blog of typewatch."
+
+  search:
+    enable: false
+
   navbar:
-    displayTitle: true
     displayLogo: false
 
   footer:
-    displayCopyright: false
     displayPoweredBy: false
 
 markup:
@@ -19,19 +22,10 @@ markup:
 
 disableKinds: ["rss"]
 
-security:
-  http:
-    methods:
-      - GET
-      - POST
-    urls:
-      - ^https?://[a-z]
-      - ^https://cdn.jsdelivr.net
-      - '!localhost'
-      - '!@'
+enableRobotsTXT: true
 
-defaultContentLanguage: en
-defaultContentLanguageInSubdir: false
+taxonomies:
+  tag: tags
 
 languages:
   en:

@@ -1,6 +1,6 @@
 ---
 title: Build Guide
-type: docs
+description: "Step-by-step build guide for the Driver40 split keyboard."
 prev: docs/bom/
 ---
 

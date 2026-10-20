@@ -1,6 +1,6 @@
 ---
 title: License
-type: docs
+description: "License terms for typewatch's projects, content, and site code."
 prev: docs/
 weight: 1
 ---

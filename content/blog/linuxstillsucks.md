@@ -1,10 +1,6 @@
 ---
 title: "Linux still sucks—here's why you should use it"
 date: 2026-03-01
-authors:
-  - name: typewatch
-    link: https://github.com/typewatch/
-    image: https://github.com/typewatch.png
 tags:
   - linux
   - microsoft

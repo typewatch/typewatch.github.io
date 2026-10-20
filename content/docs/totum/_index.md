@@ -1,6 +1,6 @@
 ---
 title: Totum
-type: docs
+description: "A 2WD 24V robotics project in progress."
 prev: docs/
 ---
 
