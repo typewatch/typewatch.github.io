@@ -3,26 +3,6 @@ locale: en-us
 title: typewatch
 theme: hextra
 
-menu:
-  main:
-    - name: docs
-      pageRef: /docs
-      weight: 1
-    - name: blog
-      pageRef: /blog
-      weight: 2
-    - name: projects
-      pageRef: /projects
-      weight: 3
-    - name: about
-      pageRef: /about
-      weight: 4
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/typewatch/typewatch.github.io/"
-      params:
-        icon: github
-
 params:
   navbar:
     displayTitle: true
@@ -37,7 +17,7 @@ markup:
     renderer:
       unsafe: true
 
-disableKinds: ["RSS"]
+disableKinds: ["rss"]
 
 security:
   http:
@@ -49,3 +29,54 @@ security:
       - ^https://cdn.jsdelivr.net
       - '!localhost'
       - '!@'
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+
+languages:
+  en:
+    label: English
+    weight: 1
+    title: typewatch
+    menu:
+      main:
+        - name: docs
+          pageRef: /docs
+          weight: 1
+        - name: blog
+          pageRef: /blog
+          weight: 2
+        - name: projects
+          pageRef: /projects
+          weight: 3
+        - name: about
+          pageRef: /about
+          weight: 4
+        - name: GitHub
+          weight: 5
+          url: "https://github.com/typewatch/typewatch.github.io/"
+          params:
+            icon: github
+  es:
+    label: Español
+    weight: 2
+    title: typewatch
+    menu:
+      main:
+        - name: docs
+          pageRef: /docs
+          weight: 1
+        - name: blog
+          pageRef: /blog
+          weight: 2
+        - name: proyectos
+          pageRef: /projects
+          weight: 3
+        - name: sobre mí
+          pageRef: /about
+          weight: 4
+        - name: GitHub
+          weight: 5
+          url: "https://github.com/typewatch/typewatch.github.io/"
+          params:
+            icon: github

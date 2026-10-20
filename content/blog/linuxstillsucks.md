@@ -20,7 +20,7 @@ The short answer: No, not really. Linux still has a ways to go, and it is *just 
 
 The long answer: Windows—historically plagued by bad updates and bloat—has been getting useless AI features hammered into it non-stop since last year.
 
-First came copilot (Microsoft's in-house multimodal AI model) and along with it preceded a ton of useless AI integrations into every nook and cranny of Windows: if you were to do a fresh install of Windows right now, it will include about a dozen different instances of copilot scattered around almost all major apps, from basic daily-use apps like Edge Browser and the settings app all the way to something as simple as Notepad. It is **everywhere**.
+First came Copilot (Microsoft's in-house multimodal AI model) and along with it preceded a ton of useless AI integrations into every nook and cranny of Windows: if you were to do a fresh install of Windows right now, it will include about a dozen different instances of copilot scattered around almost all major apps, from basic daily-use apps like Edge Browser and the settings app all the way to something as simple as Notepad. It is **everywhere**.
 
 Starting last year, they even began shipping out computers with a dedicated copilot key for "easy access" to an AI app that was [meant to spy on you.](https://support.microsoft.com/en-us/windows/retrace-your-steps-with-recall-aa03f8a0-a78b-4b3e-b0a1-2eb8ac48701c)
 
@@ -44,13 +44,13 @@ Despite its dominance outside the consumer sector, for years Linux has been tryi
 Linux has not been around in the market as long as others have, and isn't as widely recognized, but the public opinion on it has been growing stronger every year, and with recent improvements it finally looks like it might just be about time for it to claim more territory.
 
 ## I don't like Windows
-I have technically been a Linux user for years, having my first taste when I put raspbian on a raspberry pi as a kid. Since then, I've tried several distros and have been running Linux on my homelab for a while.
+I have technically been a Linux user for years, having my first taste when I put Raspbian on a Raspberry Pi as a kid. Since then, I've tried several distros and have been running Linux on my homelab for a while.
 
 However, I can't actually say I have *used* Linux, as I've been a Windows person since my first interaction with a computer. I have considered switching before, but I never actually went through with it. Switching's not hard if you've got a good guide and some base knowledge, but it does take some time and preparation—even more so if it'll be your main OS—which I am too lazy to do. So I put it off, and off again, and then off again again.
 
-And a year or two later, I've stopped the perpetual OS migration procrastination. I was already up to my wits end with a number of issues and bugs and nitpicks which Windows has that, albeit minor, make you go crazy over time. But that wasn't enough to make me go over the trouble of switching. I thought the final straw would be the rollout of AI features, but it seems I was too hesitant to go ahead and spend a whole weekend sorting my files and transfering them over, so I put the switch off again.
+And a year or two later, I've stopped the perpetual OS migration procrastination. I was already up to my wits' end with a number of issues and bugs and nitpicks which Windows has that, albeit minor, make you go crazy over time. But that wasn't enough to make me go over the trouble of switching. I thought the final straw would be the rollout of AI features, but it seems I was too hesitant to go ahead and spend a whole weekend sorting my files and transferring them over, so I put the switch off again.
 
-The next final straw was when Windows started having tons of system stability issues out of the blue; programs kept hanging, microstutters galore, crashes were aplenty, and even random system-wide freezings occurred for no apparent reason. It was hard to notice at times, but it was still there. I did some digging, and turns out this was caused by the (forced) rollout of a faulty system update. I was mad. This however, was not yet enough for me to switch over.
+The next final straw was when Windows started having tons of system stability issues out of the blue; programs kept hanging, microstutters galore, crashes were aplenty, and even random system-wide freezes occurred for no apparent reason. It was hard to notice at times, but it was still there. I did some digging, and turns out this was caused by the (forced) rollout of a faulty system update. I was mad. This however, was not yet enough for me to switch over.
 
 What it did do was compel me to perform a "tiny experiment" (or so I thought); I had never put Linux on my main computer, so I figured I should just to give it a try. "It'll take no longer than an hour or two" I thought, so I went ahead with it, and set up a lightweight Arch system on a mini-partition. 
 
@@ -63,7 +63,7 @@ That same evening I backed all of my data up, and settled into my distro of choi
 ## I switched to Linux, and it's...
 Depending on your chosen distro, the switch can be either stupidly simple or akin to rocket surgery.
 
-In the distro I chose, you have two main ways to install the OS onto your computer, and both require quite a bit of manual labor and thinking before you can use your new operating system. You have to specify through the commandline where to install, what to install, how to install, for who to install, and a bunch of other stuff. For an experienced tech, it is a piece of cake, but for the average joe, it can be a little jarring and off-putting.
+In the distro I chose, you have two main ways to install the OS onto your computer, and both require quite a bit of manual labor and thinking before you can use your new operating system. You have to specify through the commandline where to install, what to install, how to install, for whom to install, and a bunch of other stuff. For an experienced tech, it is a piece of cake, but for the average Joe, it can be a little jarring and off-putting.
 
 I had no issues with my installation; with my important files taken care of, all I had to do was plug in a boot thumb drive, do a quick install config and let it do its thing. In less than an hour, I already had a somewhat batteries-included system. I still needed some extra stuff, but it was practically ready-to-use for basic things. Other, more mainstream distros are easier to install and come with even more useful software out of the box. This is great as people short of time or tech knowledge can quickly set up a basic Linux system by themselves and get up and running in no time. 
 

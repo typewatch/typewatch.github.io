@@ -26,7 +26,7 @@ After hearing about the hobby through a Discord user praising their Dactyl Manuf
 
 ![dactylmanuform](/img/blog/lily58/dactylmanuform.webp "What a Dactyl Manuform keyboard looks like. (Via u/Muster7710 on Reddit)")
 
-Split keyboards are designed around the way human hands naturally move, so instead of forcing both hands onto a single small rectangle, they separate the keyboard into two halves and even rearrange keys to reduce unnecesary finger movement and wrist strain. There are countless split keyboards to pick from, and I chose the lily58.
+Split keyboards are designed around the way human hands naturally move, so instead of forcing both hands onto a single small rectangle, they separate the keyboard into two halves and even rearrange keys to reduce unnecessary finger movement and wrist strain. There are countless split keyboards to pick from, and I chose the lily58.
 
 ## No really, what is that?!
 The lily58 is not like a traditional keyboard in many ways. It's split, aligned differently, and has extra stuff like knobs and thumb keys.
@@ -69,7 +69,7 @@ So in most of the cases it is necessary for every user to edit a few lines in th
 
 It took a few days for me to fully dial in all of the keybinds I wanted in my keyboard since I had to closely watch my usage to see what I'd need most, and write it down. Then once I was ready, I sat down and threw an hour away to achieve what I wanted. 
 
-Nowadays, some modern keyboard firmware, such as VIA and Vial, is primarily configured via graphical user interfaces, which are much more user-friendly than good ol' code-based configuration, and usually handle the firmware compiling automatically.
+Nowadays, some modern keyboard firmware, such as VIA and Vial, is primarily configured via graphical user interfaces, which are much more user-friendly than good ol' code-based configuration, and let you skip compiling altogether.
 
 This is now a minor hassle, but it is nevertheless an obstacle that remains present.
 
@@ -87,7 +87,7 @@ Most people tend to sway towards prebuilts of all kinds of products because buil
 
 No. It is because prebuilts cost a bajillion bucks.
 
-Remember how I said split keyboards aren't that common? Since there aren't that many customers, that means there are fewer vendors available, which means fewer parts are ordered, which means fewer technicians assembling them, which means lower product availability. All of that adds up to a $200+ dollar price tag for most prebuilts.
+Remember how I said split keyboards aren't that common? Since there aren't that many customers, that means there are fewer vendors available, which means fewer parts are ordered, which means fewer technicians assembling them, which means lower product availability. All of that adds up to a 200+ dollar price tag for most prebuilts.
 
 Building is a different story—it's cheaper money-wise but *much* more expensive time-wise. Sure, it could be nice to spend an hour or two assembling your keyboard to get acquainted with how it works and save a boatload of money, but once your "hour or two" changes into "by hour five I had something that somewhat resembled a keyboard", paying someone else to do the dirty work starts sounding like a good idea.
 
@@ -96,7 +96,7 @@ I'm cheap and insane though, so I got a parts kit for $25 and got to work. The b
 ### Human error
 No person is perfect. I am though, so that's why I swiftly soldered all 122 components onto my keyboard and immediately got to work without any issues whatsoever.
 
-Then, ~~I realized I forgot to solder one diode~~ the stupid keyboard took a soldering iron and undid one of the diode solder joins out of pure envy of my bulletproof skills. So I had to crack it open and reflow (redo) every single diode's solder joints on my left half because the 'e' ky stoppd working outta nowhr and I got rsonably annoyd.
+Then, ~~I realized I forgot to solder one diode~~ the stupid keyboard took a soldering iron and undid one of the diode solder joints out of pure envy of my bulletproof skills. So I had to crack it open and reflow (redo) every single diode's solder joints on my left half because the 'e' ky stoppd working outta nowhr and I got rsonably annoyd.
 
 ### Adaptation
 Almost all split keyboards shuffle the physical positions of keys in such a way that you're forced to rebuild your muscle memory in order to touch type again, no matter if you keep a layout you're already used to, like the standard QWERTY. In fact, it is often recommended to switch your layout in order to separate muscle memory for standard keyboards and split keyboards.
@@ -109,5 +109,3 @@ The lily58 is a staple of the split keyboard community and is considered the de 
 However, it is a very niche piece of equipment that might not be right for you. Finding parts and building it is somewhat burdensome, adapting to it takes time, and configuring it requires a little coding knowledge. Deciding if it's worth making the jump for you depends on how much you appreciate customization on your most used tools and your time.
 
 After my experience dailying a split keyboard, I can't go back. The lily58 did not fix my shrimp posture, or make me a 10x engineer overnight, but what it did was ruin my opinion of regular keyboards. The switch is easy, but not seamless—every time I return, it makes me aware of the limitations of what is standard, and makes me sad we have not explored anything different just because things are fine the way they are.
-
-Unfortunately, I've now become the keyboard equivalent of a wine snob.
